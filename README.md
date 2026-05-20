@@ -12,9 +12,14 @@
   - "git branch -M main"
   - "git push -u origin main" - this pushes the commit to GitHub
 
-# 3. Track Changes
+## 3. Track Changes
 - Create new files: ReadInFromTheConsole, Printer
 - Modify existing file: Calculator: text is modified
+- Create few more files: NewFile, .env file with some environment variables
+
+## 4. Ignore Files
+- Create .gitignore file
+- Configure to exclude unnecessary or sensitive files
 
 
 

@@ -25,7 +25,8 @@
 - Branch and merging:
   - "git branch first_branch": create a new branch
   - "git checkout first_branch": go to the new branch
-  - Make changes, commit them and merge it back into the main branch 
+  - Make changes, commit them and merge it back into the main branch
+    - "git push -u origin first_branch" : creates a new remote branch and pushes the commit there
 
 
 

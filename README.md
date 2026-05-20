@@ -5,6 +5,16 @@
 - "git add ." - staging the changes
 - "git commit -m "Create text Hello World" " - create the first commit
 
+## 2. Connect to Github
+- Create a new repository on GitHub
+- Link the local repository to GitHub:
+  - "git remote add origin https://github.com/gnstimar/console-practices.git"
+  - "git branch -M main"
+  - "git push -u origin main" - this pushes the commit to GitHub
+
+# 3. Track Changes
+- Create new files: ReadInFromTheConsole, Printer
+- Modify existing file: Calculator: text is modified
 
 
 

@@ -18,8 +18,10 @@
 - Create few more files: NewFile, .env file with some environment variables
 
 ## 4. Ignore Files
-- Create .gitignore file
-- Configure to exclude unnecessary or sensitive files
+- Create `.gitignore` file
+- Configure to exclude unnecessary or sensitive files.
+- Add `**/.env` to the `.gitignore` file to safely exclude environment variables from any subdirectory.
+- If a file is already tracked by Git, run `git rm --cached <file-path>` to stop tracking it without deleting it locally.
 
 # Task 3: Advanced Challenges
 - Branch and merging:
